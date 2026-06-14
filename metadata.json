@@ -1,0 +1,6 @@
+{
+  "name": "Quiz Bot",
+  "description": "Interactive Google Workspace Quiz on Internet and its Use for Class 8 students using Google Sheets",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
